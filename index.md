@@ -1,15 +1,24 @@
 ---
 layout: home
 title: TonkeyTong
-list_title: Beiträge
+list_title: Neue Beiträge
+description: >
+  Technisches Lerntagebuch rund um Microsoft Azure, DevOps,
+  Infrastructure as Code und Microsoft-Datenplattformen.
 ---
 
 ## Mein technisches Lerntagebuch
 
-Hier dokumentiere ich meinen Lernweg rund um Azure, DevOps,
-Infrastructure as Code sowie Microsoft-Datenplattformen wie
-Power BI und Fabric.
+Auf **TonkeyTong** dokumentiere ich meinen persönlichen Lernweg rund um Microsoft Azure, DevOps, Infrastructure as Code und Microsoft-Datenplattformen.
 
-Die Beiträge enthalten meine eigenen Erklärungen, praktische
-Beispiele, aufgetretene Schwierigkeiten und die Erkenntnisse,
-die ich aus den jeweiligen Themen mitgenommen habe.
+Die Beiträge entstehen unter anderem aus:
+
+- meiner Vorbereitung auf Microsoft-Zertifizierungen,
+- privaten Labs und eigenen Projekten,
+- technischen Problemen und deren Lösungen,
+- meinen Erfahrungen mit Azure, Power BI und Microsoft Fabric,
+- Themen aus den Bereichen DevOps und Plattformarchitektur.
+
+Dabei versuche ich, die Inhalte in meinen eigenen Worten zu erklären und mit verständlichen Beispielen zu ergänzen.
+
+Der Blog dient sowohl als meine persönliche Wissensdatenbank als auch als Hilfestellung für andere, die sich mit ähnlichen Themen beschäftigen.
