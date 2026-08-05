@@ -1,6 +1,6 @@
 title: TonkeyTong
 description: >
-  ch Dokumentiere hier meinen Weg fürs lernen von Azure und erstelle dabei einfache Erklärungen der einzelnen Themen für mich selbst aber auch andere welche beim 
+  Ich Dokumentiere hier meinen Weg fürs lernen von Azure und erstelle dabei einfache Erklärungen der einzelnen Themen für mich selbst aber auch andere welche beim 
   Vorbereiten auf Azure Zertifikate helfen sollen aber auch einfach zum nachschlagen gedacht sind. 
 
 author:
@@ -10,8 +10,7 @@ author:
 lang: de-DE
 timezone: Europe/Berlin
 
-url: "https://azure.tonkeytong.de"
-baseurl: ""
+
 
 theme: minima
 show_excerpts: true
